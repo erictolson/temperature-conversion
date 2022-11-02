@@ -3,8 +3,7 @@ This SwiftUI project is a result of the first 'challenge' in "Hacking With Swift
 
 This app allows the user to convert temperatures.
 
-This project follows the guidelines <a href="https://www.hackingwithswift.com/100/swiftui/19" target="_blank">here</a>
-, from Paul Hudson's "100 Days of Swift UI" tutorial program.
+This project follows the brief <a href="https://www.hackingwithswift.com/100/swiftui/19" target="_blank">here</a>, from Paul Hudson's "100 Days of Swift UI" tutorial program.
 
 Please see the below video of the app run on an iPhone 14 Pro simulator.
 
